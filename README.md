@@ -88,6 +88,10 @@ Observer -> Investiguer -> Comprendre -> Défendre
 ![PowerShell](https://img.shields.io/badge/PowerShell-dccfff?style=for-the-badge&logo=powershell&logoColor=3b2f3f)
 ![Bash](https://img.shields.io/badge/Bash-fad9e8?style=for-the-badge&logo=gnubash&logoColor=3b2f3f)
 ![Fish](https://img.shields.io/badge/Fish%20Shell-f5bdd3?style=for-the-badge&logo=gnubash&logoColor=3b2f3f)
+![JavaScript](https://img.shields.io/badge/JavaScript-f3b6d2?style=for-the-badge&logo=javascript&logoColor=3b2f3f)
+![TypeScript](https://img.shields.io/badge/TypeScript-d8c7ff?style=for-the-badge&logo=typescript&logoColor=3b2f3f)
+![HTML5](https://img.shields.io/badge/HTML5-fad9e8?style=for-the-badge&logo=html5&logoColor=3b2f3f)
+![CSS3](https://img.shields.io/badge/CSS3-f5bdd3?style=for-the-badge&logo=css3&logoColor=3b2f3f)
 
 </div>
 
