@@ -103,6 +103,7 @@ Observer -> Investiguer -> Comprendre -> Défendre
 ![CachyOS](https://img.shields.io/badge/CachyOS-d8c7ff?style=for-the-badge&logo=archlinux&logoColor=3b2f3f)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-f5bdd3?style=for-the-badge&logo=archlinux&logoColor=3b2f3f)
 ![Windows](https://img.shields.io/badge/Windows-fad9e8?style=for-the-badge&logo=windows&logoColor=3b2f3f)
+![Raspberry Pi / ARM Linux](https://img.shields.io/badge/Raspberry%20Pi-e8c4d4?style=for-the-badge&logo=raspberrypi&logoColor=3b2f3f)
 
 </div>
 
