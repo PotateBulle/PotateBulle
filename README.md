@@ -283,7 +283,7 @@ Certaines données issues de mes investigations restent privées lorsque leur pu
 
 # Objectifs
 
-Mon objectif est de développer des compétences défensives concrètes, de mener des investigations rigoureuses et de documenter.
+Mon objectif est de développer des compétences défensives concrètes, de mener des investigations rigoureuses et de documenter mes travaux de manière claire et reproductible.
 
 [![Repository](https://img.shields.io/badge/Voir%20les%20CyberDefenders%20Writeups-f3b6d2?style=for-the-badge&logo=github&logoColor=3b2f3f)](https://github.com/PotateBulle/cyberdefenders-writeups)
 ---
